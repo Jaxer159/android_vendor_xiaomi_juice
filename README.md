@@ -1,1 +1,1 @@
-# Vendor Tree for Xiaomi Redmi 9T/Poco M3 (Android 12)
+# Vendor Tree for Juice (Xiaomi Redmi 9T/Poco M3) && (Android 12)
